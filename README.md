@@ -15,6 +15,6 @@ Sou um Cientista de Dados com sólida bagagem multidisciplinar, unindo o rigor a
 *   **Ferramentas de BI:** Power BI
 
 ### 📫 Como me encontrar:
-*   **LinkedIn:** [https://www.linkedin.com/in/marcos-cabral-netto-658895108/]
+*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marcos-cabral-netto-658895108/)
 *   **Email:** marcosjcn94@gmail.com / mjcn94@hotmail.com
 *   **Publicação Acadêmica (Direito Constitucional):** [Revista da Faculdade de Direito da UERJ](https://doi.org/10.12957/rfd.2024.75176)
